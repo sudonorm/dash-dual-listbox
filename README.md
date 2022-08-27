@@ -4,7 +4,7 @@ Install using:
 <code>pip install dash-dual-listbox</code>
 
 ************************************************************************
-Pip install installs a version that contains packages which no longer work. In that version, callbacks are broken.
+<code>pip install dash-dual-listbox</code> installs a version that contains packages which no longer work. In that version, callbacks are broken.
 
 The DualList.py file will need to be rebuilt. 
 
