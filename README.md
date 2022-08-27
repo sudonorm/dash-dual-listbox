@@ -11,7 +11,7 @@ The DualList.py file will need to be rebuilt.
 To do this:
 
 - Make sure you have <code>node.js</code> and <code>npm</code> installed
-- <code>git clone https://github.com/vivekvs1/dash-dual-listbox.git</code> or you can also clone this repo
+- <code>git clone https://github.com/vivekvs1/dash-dual-listbox.git</code>
 - cd dash-dual-listbox
 - npm install
 - npm run build:js
